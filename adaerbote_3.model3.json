@@ -8,71 +8,71 @@
       "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/textures/texture_01.png"
     ],
     "DisplayInfo": null,
-    "Physics": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/adaerbote_3.physics3.json",
+    "Physics": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/adaerbote_3.physics3.json",
     "Motions": {
       "complete": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/complete.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/complete.motion3.json"
         }
       ],
       "effect": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/effect.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/effect.motion3.json"
         }
       ],
       "home": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/home.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/home.motion3.json"
         }
       ],
       "idle": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/idle.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/idle.motion3.json"
         }
       ],
       "idle1": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/idle1.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/idle1.motion3.json"
         }
       ],
       "idle2": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/idle2.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/idle2.motion3.json"
         }
       ],
       "idle3": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/idle3.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/idle3.motion3.json"
         }
       ],
       "idle4": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/idle4.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/idle4.motion3.json"
         }
       ],
       "idle5": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/idle5.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/idle5.motion3.json"
         }
       ],
       "idle6": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/idle6.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/idle6.motion3.json"
         }
       ],
       "idle7": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/idle7.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/idle7.motion3.json"
         }
       ],
       "login": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/login.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/login.motion3.json"
         }
       ],
       "mail": [
         {
-          "File": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/motions/mail.motion3.json"
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/mail.motion3.json"
         }
       ]
     },
