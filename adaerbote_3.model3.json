@@ -74,6 +74,111 @@
         {
           "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/mail.motion3.json"
         }
+      ],
+      "main_1": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/main_1.motion3.json"
+        }
+      ],
+      "main_2": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/main_2.motion3.json"
+        }
+      ],
+      "main_3": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/main_3.motion3.json"
+        }
+      ],
+      "main_4": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/main_4.motion3.json"
+        }
+      ],
+      "mission": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/mission.motion3.json"
+        }
+      ],
+      "mission_complete": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/mission_complete.motion3.json"
+        }
+      ],
+      "touch_body": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_body.motion3.json"
+        }
+      ],
+      "touch_drag2": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_drag2.motion3.json"
+        }
+      ],
+      "touch_head": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_head.motion3.json"
+        }
+      ],
+      "touch_idle1": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle1.motion3.json"
+        }
+      ],
+      "touch_idle2": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle2.motion3.json"
+        }
+      ],
+      "touch_idle3": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle3.motion3.json"
+        }
+      ],
+      "touch_idle4": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle4.motion3.json"
+        }
+      ],
+      "touch_idle5": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle5.motion3.json"
+        }
+      ],
+      "touch_idle6": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle6.motion3.json"
+        }
+      ],
+      "touch_idle7": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle7.motion3.json"
+        }
+      ],
+      "touch_idle8": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle8.motion3.json"
+        }
+      ],
+      "touch_idle9": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle9.motion3.json"
+        }
+      ],
+      "touch_idle10": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_idle10.motion3.json"
+        }
+      ],
+      "touch_special": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/touch_special.motion3.json"
+        }
+      ],
+      "wedding": [
+        {
+          "File": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/motions/wedding.motion3.json"
+        }
       ]
     },
     "Expressions": []
