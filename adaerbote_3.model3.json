@@ -4,8 +4,8 @@
   "FileReferences": {
     "Moc": "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/adaerbote_3.moc3",
     "Textures": [
-      "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/textures/texture_00.png",
-      "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/textures/texture_01.png"
+      "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/textures/texture_00.png",
+      "https://raw.githubusercontent.com/12-qwaszx-12/adaerbote_3/main/textures/texture_01.png"
     ],
     "DisplayInfo": null,
     "Physics": "https://raw.githubusercontent.com/12-qwaszx-12/xinnong/main/adaerbote_3.physics3.json",
